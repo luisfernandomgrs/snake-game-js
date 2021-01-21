@@ -1,5 +1,5 @@
 # snake-game-js
-Aprendendo usando games :) Jogo da Cobrinha
+Aprendendo usando games :)
 
 <h1>Jogo da cobrinha</h1>
 <p>Olá Pessoal, hoje estou usando o game da cobrinha para aprender git+js e muito mais</p>
