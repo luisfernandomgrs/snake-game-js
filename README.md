@@ -19,3 +19,7 @@ Aprendendo usando games :)
     https://pastebin.com/AbgWvcyS
   </code>
 </pre>
+
+<h2>Como ficará o jogo</h2>
+
+![image](https://user-images.githubusercontent.com/72364037/106653912-2bc7e900-6576-11eb-850b-64cddd6e8885.png)
