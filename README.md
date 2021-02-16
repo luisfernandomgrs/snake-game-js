@@ -22,4 +22,7 @@ Aprendendo usando games :)
 
 <h2>Como ficará o jogo</h2>
 
+https://luisfernandomgrs.github.io/snake-game-js/index.html
+
+
 ![image](https://user-images.githubusercontent.com/72364037/106654257-aabd2180-6576-11eb-8670-b4b58ce5176a.png)
